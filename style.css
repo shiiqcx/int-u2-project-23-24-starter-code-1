@@ -1,19 +1,24 @@
 /* The code below puts the title of the website in the center */
 .title { 
     text-align: center;
+  text-shadow: 2px 2px 0 cadetblue;
 }
 
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
-    color: black;
+    color: floralwhite;
     text-align: center;
-    background-color: white;
+    background-color: skyblue;
 }
 
 
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
-    color:white;
+    color:antiquewhite;
     text-align: center;
-    background-color: black;
+    background-color: cadetblue;
+}
+
+img{
+  width: 75%;
 }
