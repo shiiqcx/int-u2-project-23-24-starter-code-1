@@ -1,9 +1,16 @@
 /* The code below puts the title of the website in the center */
 .title { 
     text-align: center;
-  text-shadow: 2px 2px 0 cadetblue;
+  text-shadow: 2px 2px 0 rebeccapurple;
+  background-color: cadetblue;
 }
 
+
+
+img {
+  border: 5px solid white;
+   width: 75%;
+}
 /* The code below adds a white background-color and black text color for the body of the page. */
 body {
     color: floralwhite;
@@ -19,6 +26,5 @@ body {
     background-color: cadetblue;
 }
 
-img{
-  width: 75%;
-}
+
+
